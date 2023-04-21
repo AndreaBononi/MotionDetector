@@ -1,0 +1,48 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : M209720546.dra                                )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Thu Dec 15 18:19:37 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Dec 15 18:19:37 2022				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/OrCAD_Personal_Library/Footprints/M209720546.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/OrCAD_Personal_Library/Footprints/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/OrCAD_Personal_Library/Padstacks/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'THRUHOLE_1D07'  pad stack refresh starting.
+
+     'THRUHOLE_1D07'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : VJ0805D122KXXAJ.dra                           )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Mon Jan 09 16:36:06 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/OrCAD_Personal_Library/Footprints
+    Name      = vj0805d122kxxaj.psm
+    User      = andre
+    Machine   = DESKTOP-Q01422V
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

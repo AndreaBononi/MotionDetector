@@ -1,0 +1,116 @@
+\t (00:00:03) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Jan 09 17:07:00 2023
+\t (00:00:03)         Host=DESKTOP-Q01422V User=andre Pid=15200 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged CRCW08051K60JNEA
+\d (00:00:06) Design opened: C:/OrCAD_Personal_Library/Footprints/CRCW08051K60JNEA.dra
+\t (00:00:06) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:06) trapsize 167
+\i (00:00:06) trapsize 174
+\i (00:00:06) trapsize 181
+\i (00:00:06) trapsize 174
+\i (00:00:06) trapsize 167
+\t (00:00:06) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:06) trapsize 167
+\i (00:00:07) etchedit 
+\i (00:00:11) open 
+\i (00:00:15) fillin "BAS16LD315.dra"
+\t (00:00:15) Opening existing design...
+\i (00:00:15) trapsize 112
+\i (00:00:15) trapsize 115
+\i (00:00:15) trapsize 112
+\t (00:00:15) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\i (00:00:16) trapsize 116
+\d (00:00:16) Design opened: C:/OrCAD_Personal_Library/Footprints/BAS16LD315.dra
+\i (00:00:16) etchedit 
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 0.0019 0.3164
+\i (00:00:16) trapsize 58
+\i (00:00:18) shape add rect 
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -0.4830 0.2828
+\i (00:00:19) trapsize 29
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -0.4818 0.2828
+\i (00:00:19) trapsize 15
+\i (00:00:20) pick grid -0.5009 0.3008
+\t (00:00:20) last pick:  -0.5000 0.3000
+\i (00:00:23) done 
+\i (00:00:24) etchedit 
+\i (00:00:25) shape add rect 
+\i (00:00:28) setwindow form.mini
+\i (00:00:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:36) FORM mini dyns_fill_type Unfilled 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) pick grid -0.5006 0.3005
+\t (00:00:38) last pick:  -0.5000 0.3000
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -0.4162 0.2474
+\i (00:00:38) trapsize 29
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -0.3769 0.2341
+\i (00:00:38) trapsize 58
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -0.3130 0.2190
+\i (00:00:39) trapsize 116
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 0.4712 -0.2567
+\i (00:00:40) trapsize 58
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 0.5802 -0.3100
+\i (00:00:40) trapsize 29
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 0.5309 -0.3059
+\i (00:00:41) trapsize 15
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 0.5312 -0.3065
+\i (00:00:41) trapsize 7
+\i (00:00:42) pick grid 0.5049 -0.2978
+\t (00:00:42) last pick:  0.5000 -0.3000
+\i (00:00:44) done 
+\i (00:00:44) etchedit 
+\i (00:00:46) save 
+\i (00:00:47) fillin yes 
+\t (00:00:47) Symbol 'bas16ld315.psm' created.
+\i (00:00:48) etchedit 
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 0.5012 -0.2753
+\i (00:00:48) trapsize 14
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 0.5013 -0.2754
+\i (00:00:48) trapsize 29
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 0.5013 -0.2753
+\i (00:00:48) trapsize 58
+\i (00:00:48) zoom out 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom out 0.4989 -0.2764
+\i (00:00:48) trapsize 116
+\i (00:00:51) open 
+\i (00:01:00) fillin "C:/Temp/Motion_Detector/allegro/MOTION_DETECTOR.brd"
+\i (00:01:00) cd "C:/Temp/Motion_Detector/allegro"
+\t (00:01:00) Opening existing design...
+\w (00:01:00) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\i (00:01:00) trapsize 715
+\i (00:01:00) trapsize 733
+\i (00:01:00) trapsize 715
+\t (00:01:00) Grids are drawn 0.6400, 0.6400 apart for enhanced viewing.
+\i (00:01:00) trapsize 725
+\t (00:01:00)     Journal end - Mon Jan 09 17:07:57 2023

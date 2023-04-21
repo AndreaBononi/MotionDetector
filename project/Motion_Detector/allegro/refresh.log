@@ -1,0 +1,122 @@
+Mon Jan 09 17:44:53 2023				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Mon Jan 09 17:44:53 2023
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : MOTION_DETECTOR.brd                           )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Mon Jan 09 17:44:53 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Jan 09 17:44:53 2023				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Temp/Motion_Detector/allegro/MOTION_DETECTOR.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/OrCAD_Personal_Library/Footprints/ 
+           C:/OrCAD_Personal_Library/Padstacks/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/OrCAD_Personal_Library/Padstacks/ 
+           C:/OrCAD_Personal_Library/Footprints/ 
+
+
+------ Symbol Refresh Messages ------
+
+'BAS16LD315'  symbol refreshed successfully.
+'FOOTPRINT_CC2640F128RHBR'  symbol refreshed successfully.
+'RC0402FR075KL'  symbol refreshed successfully.
+'CRCW0603100KJNEA'  symbol refreshed successfully.
+'EKMC1607112'  symbol refreshed successfully.
+'CRCW08051K60JNEA'  symbol refreshed successfully.
+'HLMPK150'  symbol refreshed successfully.
+'CRCW040250K0FKED'  symbol refreshed successfully.
+'AI1223TWT3V2R'  symbol refreshed successfully.
+'EVPBV2C3L000'  symbol refreshed successfully.
+'BLM18HE152SN1D'  symbol refreshed successfully.
+'M209720546'  symbol refreshed successfully.
+'CL10C121JB8NNNC'  symbol refreshed successfully.
+'RT0603BRD07453KL'  symbol refreshed successfully.
+'DFE201610E'  symbol refreshed successfully.
+'RT0402FRE07100KL'  symbol refreshed successfully.
+'TPS62824DMQR'  symbol refreshed successfully.
+'BAT32LSQYL'  symbol refreshed successfully.
+'SSM3K16CT'  symbol refreshed successfully.
+'MFSA1206R0100FCM'  symbol refreshed successfully.
+'CRCW04021M00FKEE'  symbol refreshed successfully.
+'GRM155R61A474ME15D'  symbol refreshed successfully.
+'BQ27411DRZTG1A'  symbol refreshed successfully.
+'CRCW06033K30FKEA'  symbol refreshed successfully.
+'CRCW04021K00JNED'  symbol refreshed successfully.
+'GRM21BR71A475ME51K'  symbol refreshed successfully.
+'MCP73832T2ATIMC'  symbol refreshed successfully.
+'SK12F17G7'  symbol refreshed successfully.
+'22035035'  symbol refreshed successfully.
+'1051640001'  symbol refreshed successfully.
+'MLF1608E100MTD00'  symbol refreshed successfully.
+'GRM21BR71A106MA73K'  symbol refreshed successfully.
+'C0402C104M8RAC7411'  symbol refreshed successfully.
+'CC0603KRX5R5BB105'  symbol refreshed successfully.
+'GRM1885C1H120JA01J'  symbol refreshed successfully.
+'ECS240833AGNTR'  symbol refreshed successfully.
+'SC32S7PF20PPM'  symbol refreshed successfully.
+'VJ0805D122KXXAJ'  symbol refreshed successfully.
+'VJ0402D120GXCAJ'  symbol refreshed successfully.
+'IMC0603ER2N0S01'  symbol refreshed successfully.
+'IMC0603ER15NJ01'  symbol refreshed successfully.
+'PATCH_ANTENNA_50OHM'  symbol refreshed successfully.
+Mon Jan 09 17:44:53 2023				Page     2
+
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 42 out 42
+    Design updated.
+

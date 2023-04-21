@@ -1,0 +1,44 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : BQ27411DRZTG1A.dra                            )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Fri Dec 16 11:12:59 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Dec 16 11:12:59 2022				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/OrCAD_Personal_Library/Footprints/BQ27411DRZTG1A.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/OrCAD_Personal_Library/Footprints/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/OrCAD_Personal_Library/Padstacks/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+Completed refreshing all pad stacks successfully.

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CRCW08051K60JNEA.dra                          )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Mon Jan 09 17:03:41 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/OrCAD_Personal_Library/Footprints
+    Name      = crcw08051k60jnea.psm
+    User      = andre
+    Machine   = DESKTOP-Q01422V
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

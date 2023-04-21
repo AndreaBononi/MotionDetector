@@ -1,0 +1,130 @@
+Date and Time : 12/21/22 16:09:11
+
+--------------------------------------------------
+Checking Schematic:  Motion_Detector
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict GND  Power Connected to Bidirectional
+                    Motion_Detector, uC_decoupling  (3.00, 4.69) 
+WARNING(ORCAP-1829): Possible pin type conflict C15,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_decoupling  (3.00, 4.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C16,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_decoupling  (4.00, 4.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C17,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_decoupling  (5.00, 4.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C13,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_decoupling  (7.00, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C11,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_decoupling  (5.00, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C12,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_decoupling  (6.00, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C14,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_decoupling  (8.00, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,GND  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (3.50, 5.30) 
+WARNING(ORCAP-1829): Possible pin type conflict M2,D  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (2.90, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict M3,D  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (8.00, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C18,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (8.00, 5.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U9,A2  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (6.20, 5.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U11,GND  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (4.20, 3.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R16,1  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (5.10, 4.02) 
+WARNING(ORCAP-1829): Possible pin type conflict C19,1  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (6.29, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C20,1  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (6.79, 2.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C22,1  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (1.20, 3.90) 
+WARNING(ORCAP-1829): Possible pin type conflict C6,1  Bidirectional Connected to Power
+                    Motion_Detector, uC  (6.10, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict C7,1  Bidirectional Connected to Power
+                    Motion_Detector, uC  (8.01, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U6,GND  Bidirectional Connected to Power
+                    Motion_Detector, uC  (7.80, 1.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C10,1  Bidirectional Connected to Power
+                    Motion_Detector, uC  (4.60, 5.70) 
+WARNING(ORCAP-1829): Possible pin type conflict C8,1  Bidirectional Connected to Power
+                    Motion_Detector, uC  (5.50, 5.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,EGP  Bidirectional Connected to Power
+                    Motion_Detector, uC  (1.66, 5.10) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,GND2  Bidirectional Connected to Power
+                    Motion_Detector, uC  (8.60, 5.40) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,GND1  Bidirectional Connected to Power
+                    Motion_Detector, uC  (8.00, 5.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C9,1  Bidirectional Connected to Power
+                    Motion_Detector, uC  (6.90, 5.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,NC1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (4.10, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,EGP  Bidirectional Connected to Power
+                    Motion_Detector, battery  (3.20, 5.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,GND  Bidirectional Connected to Power
+                    Motion_Detector, battery  (1.00, 2.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,VSS  Bidirectional Connected to Power
+                    Motion_Detector, battery  (2.30, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict C3,1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (0.30, 5.56) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,NC2  Bidirectional Connected to Power
+                    Motion_Detector, battery  (4.10, 5.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,NC3  Bidirectional Connected to Power
+                    Motion_Detector, battery  (4.10, 5.60) 
+WARNING(ORCAP-1829): Possible pin type conflict R2,1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (5.70, 2.59) 
+WARNING(ORCAP-1829): Possible pin type conflict C2,1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (6.11, 1.80) 
+WARNING(ORCAP-1829): Possible pin type conflict SW1,3  Bidirectional Connected to Power
+                    Motion_Detector, battery  (7.80, 1.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (8.50, 2.00) 
+WARNING(ORCAP-1829): Possible pin type conflict C4,1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (4.80, 5.80) 
+WARNING(ORCAP-1829): Possible pin type conflict R7,2  Bidirectional Connected to Power
+                    Motion_Detector, battery  (1.00, 5.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,EP  Bidirectional Connected to Power
+                    Motion_Detector, battery  (4.00, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R6,1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (6.91, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,VSS  Bidirectional Connected to Power
+                    Motion_Detector, battery  (5.10, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R8,1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (1.70, 6.40) 
+WARNING(ORCAP-1829): Possible pin type conflict C1,1  Bidirectional Connected to Power
+                    Motion_Detector, battery  (1.90, 1.90) 
+WARNING(ORCAP-1829): Possible pin type conflict 3.3V  Power Connected to Bidirectional
+                    Motion_Detector, uC_decoupling  (1.81, 1.30) 
+WARNING(ORCAP-1829): Possible pin type conflict FL1,1  Bidirectional Connected to Power
+                    Motion_Detector, uC_decoupling  (2.39, 1.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,VDD  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (3.50, 4.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U7,P  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (2.90, 1.10) 
+WARNING(ORCAP-1829): Possible pin type conflict D3,C  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (2.00, 1.20) 
+WARNING(ORCAP-1829): Possible pin type conflict R9,2  Bidirectional Connected to Power
+                    Motion_Detector, uC_peripherals  (8.00, 0.50) 
+WARNING(ORCAP-1829): Possible pin type conflict C19,2  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (6.29, 2.10) 
+WARNING(ORCAP-1829): Possible pin type conflict C20,2  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (6.79, 2.10) 
+WARNING(ORCAP-1829): Possible pin type conflict R14,2  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (8.20, 2.17) 
+WARNING(ORCAP-1829): Possible pin type conflict C21,2  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (9.00, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict L4,2  Bidirectional Connected to Power
+                    Motion_Detector, voltage_regulator  (5.90, 2.00) 
+WARNING(ORCAP-1829): Possible pin type conflict R4,2  Bidirectional Connected to Power
+                    Motion_Detector, battery  (4.50, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict R5,2  Bidirectional Connected to Power
+                    Motion_Detector, battery  (5.10, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,OUT  Output Connected to Bidirectional
+                    Motion_Detector, uC_peripherals  (3.50, 5.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,DIO_0  Bidirectional Connected to Output
+                    Motion_Detector, uC  (1.66, 0.90) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

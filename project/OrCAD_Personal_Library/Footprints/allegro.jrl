@@ -1,0 +1,332 @@
+\t (00:01:19) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:01:19)     Journal start - Mon Jan 09 17:38:58 2023
+\t (00:01:19)         Host=DESKTOP-Q01422V User=andre Pid=8560 CPUs=4
+\t (00:01:19) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:01:19) 
+\d (00:01:19) Design opened: C:/OrCAD_Personal_Library/Footprints/SK12F17G7.dra
+\i (00:01:19) trapsize 521
+\i (00:01:19) etchedit 
+\i (00:01:29) delete 
+\i (00:01:31) pick grid -1.2225 -0.8027
+\t (00:01:31) last pick:  -1.2000 -0.8000
+\t (00:01:31) Shape "Package Geometry/Silkscreen_Top"
+\i (00:01:33) done 
+\i (00:01:34) etchedit 
+\i (00:01:36) pick grid -1.9203 -0.8235
+\t (00:01:36) last pick:  -1.9000 -0.8000
+\i (00:01:38) delete 
+\i (00:01:38) etchedit 
+\i (00:01:43) undo 
+\i (00:01:43) trapsize 521
+\i (00:01:43) etchedit 
+\i (00:01:48) shape add rect 
+\i (00:01:51) setwindow form.mini
+\i (00:01:51) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:54) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in -2.3265 -1.8025
+\i (00:01:57) trapsize 260
+\i (00:01:58) zoom in 1 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom in -2.3421 -1.7973
+\i (00:01:58) trapsize 130
+\i (00:02:02) pick grid -3.5060 -0.7974
+\t (00:02:02) last pick:  -3.5000 -0.8000
+\i (00:02:05) setwindow form.mini
+\i (00:02:05) FORM mini dyns_fill_type Unfilled 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out -1.1418 -1.4119
+\i (00:02:06) trapsize 260
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out -1.1834 -1.5264
+\i (00:02:06) trapsize 521
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out -0.5169 -1.9639
+\i (00:02:07) trapsize 1041
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 4.1632 -2.6721
+\i (00:02:08) trapsize 521
+\i (00:02:08) zoom in 1 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom in 4.1215 -2.6304
+\i (00:02:08) trapsize 260
+\i (00:02:09) zoom in 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom in 3.4759 -2.8543
+\i (00:02:09) trapsize 130
+\i (00:02:10) pick grid 3.4811 -2.8491
+\t (00:02:10) last pick:  3.5000 -2.8000
+\i (00:02:12) done 
+\i (00:02:12) etchedit 
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 3.3093 -2.2398
+\i (00:02:13) trapsize 260
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 3.3249 -2.2190
+\i (00:02:13) trapsize 521
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 0.6379 -2.0211
+\i (00:02:13) trapsize 1041
+\i (00:02:15) zoom in 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 0.2527 -1.7921
+\i (00:02:15) trapsize 521
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 0.1278 -1.7296
+\i (00:02:16) trapsize 260
+\i (00:02:16) zoom out 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom out -0.6742 -1.3234
+\i (00:02:16) trapsize 521
+\i (00:02:19) done 
+\i (00:02:19) etchedit 
+\i (00:02:20) pick grid -1.4969 -4.0833
+\t (00:02:20) last pick:  -1.5000 -4.1000
+\i (00:02:21) zoom in 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in -3.1528 -2.2398
+\i (00:02:21) trapsize 260
+\i (00:02:22) zoom in 1 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) zoom in -3.1528 -2.2346
+\i (00:02:22) trapsize 130
+\i (00:02:24) zoom in 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom in -3.1111 -2.1721
+\i (00:02:24) trapsize 65
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out -3.1111 -2.1721
+\i (00:02:24) trapsize 130
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out -3.1007 -2.1851
+\i (00:02:25) trapsize 260
+\i (00:02:27) delete 
+\i (00:02:28) pick grid -2.3612 -0.8050
+\t (00:02:28) last pick:  -2.4000 -0.8000
+\t (00:02:28) Shape "Package Geometry/Silkscreen_Top"
+\i (00:02:28) pick grid dbl -2.3612 -0.8050
+\t (00:02:28) last pick:  -2.4000 -0.8000
+\t (00:02:28) Shape "Package Geometry/Assembly_Top"
+\i (00:02:32) shape add rect 
+\i (00:02:35) pick grid -3.5121 -2.7942
+\t (00:02:35) last pick:  -3.5000 -2.8000
+\i (00:02:39) zoom out 1 
+\i (00:02:39) setwindow pcb
+\i (00:02:39) zoom out 1.7891 -0.8779
+\i (00:02:39) trapsize 521
+\i (00:02:40) zoom out 1 
+\i (00:02:40) setwindow pcb
+\i (00:02:40) zoom out 1.8828 -0.9508
+\i (00:02:40) trapsize 1041
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in 3.5175 -1.2525
+\i (00:02:41) trapsize 521
+\i (00:02:46) zoom in 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom in 3.5175 -0.9400
+\i (00:02:46) trapsize 260
+\i (00:02:47) pick grid 3.5176 -0.9400
+\t (00:02:47) last pick:  3.5000 -0.9000
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 3.4238 -0.9608
+\i (00:02:48) trapsize 521
+\i (00:02:48) zoom out 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom out 3.3093 -1.0546
+\i (00:02:48) trapsize 1041
+\i (00:02:54) undo 
+\i (00:02:54) trapsize 260
+\i (00:02:54) etchedit 
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out -0.6376 -0.9821
+\i (00:02:55) trapsize 521
+\i (00:02:57) shape add rect 
+\i (00:02:59) setwindow form.mini
+\i (00:02:59) FORM mini dyns_fill_type Unfilled 
+\i (00:03:05) setwindow pcb
+\i (00:03:05) pick grid -3.3975 -0.8675
+\t (00:03:05) last pick:  -3.4000 -0.9000
+\i (00:03:18) pick grid 3.4450 -2.8359
+\t (00:03:18) last pick:  3.4000 -2.8000
+\i (00:03:19) done 
+\i (00:03:20) etchedit 
+\i (00:03:23) shape add 
+\i (00:03:24) shape add rect 
+\i (00:03:33) setwindow form.mini
+\i (00:03:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom in 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom in -3.2933 -0.7321
+\i (00:03:35) trapsize 260
+\i (00:03:37) pick grid -3.4026 -0.8987
+\t (00:03:37) last pick:  -3.4000 -0.9000
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out -1.4082 -2.1850
+\i (00:03:38) trapsize 521
+\i (00:03:40) pick grid 3.3514 -2.7890
+\t (00:03:40) last pick:  3.4000 -2.8000
+\i (00:03:42) done 
+\i (00:03:42) etchedit 
+\i (00:03:43) undo 
+\i (00:03:44) trapsize 521
+\i (00:03:44) etchedit 
+\i (00:03:45) shape add rect 
+\i (00:03:48) setwindow form.mini
+\i (00:03:48) FORM mini subclass ASSEMBLY_TOP 
+\i (00:03:52) FORM mini dyns_fill_type Static crosshatch 
+\i (00:03:53) FORM mini dyns_fill_type Unfilled 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) pick grid -3.3870 -0.8883
+\t (00:03:56) last pick:  -3.4000 -0.9000
+\i (00:03:58) pick grid 3.4242 -2.8359
+\t (00:03:58) last pick:  3.4000 -2.8000
+\i (00:03:59) done 
+\i (00:03:59) etchedit 
+\i (00:04:01) save 
+\i (00:04:03) fillin yes 
+\t (00:04:03) Symbol 'sk12f17g7.psm' created.
+\i (00:04:03) etchedit 
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out -2.0435 0.1323
+\i (00:04:09) trapsize 1041
+\i (00:04:09) zoom in 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom in -4.0020 1.7470
+\i (00:04:09) trapsize 521
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in -3.9291 1.7470
+\i (00:04:10) trapsize 260
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in -1.9190 1.8720
+\i (00:04:10) trapsize 130
+\i (00:04:12) delete 
+\i (00:04:13) pick grid -2.5179 1.5153
+\t (00:04:13) last pick:  -2.5000 1.5000
+\t (00:04:13) Shape "Package Geometry/Silkscreen_Top"
+\i (00:04:13) pick grid -2.5205 1.5153
+\t (00:04:13) last pick:  -2.5000 1.5000
+\i (00:04:15) shape add circle 
+\i (00:04:17) setwindow form.mini
+\i (00:04:17) FORM mini dyns_fill_type Unfilled 
+\i (00:04:19) FORM mini subclass SILKSCREEN_TOP 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom out 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom out -2.9292 1.4633
+\i (00:04:20) trapsize 260
+\i (00:04:21) pick grid -3.3667 2.0725
+\t (00:04:21) last pick:  -3.4000 2.1000
+\i (00:04:23) pick grid -2.9449 1.6351
+\t (00:04:23) last pick:  -2.9000 1.6000
+\i (00:04:25) move 
+\t (00:04:25) Select element(s) to move.
+\i (00:04:25) pick grid -2.6949 1.9944
+\t (00:04:25) last pick:  -2.7000 2.0000
+\t (00:04:25) last pick:  -2.7000 2.0000
+\t (00:04:25) Element has no origin, using pick.
+\t (00:04:25) Pick new location for the element(s).
+\i (00:04:27) pick grid -2.3460 1.7236
+\t (00:04:27) last pick:  -2.3000 1.7000
+\i (00:04:28) save 
+\i (00:04:29) fillin yes 
+\t (00:04:30) Symbol 'sk12f17g7.psm' created.
+\i (00:04:30) etchedit 
+\i (00:05:09) xname_flush 
+\i (00:05:14) open 
+\i (00:05:19) fillin "MLF1608E100MTD00.dra"
+\t (00:05:19) Opening existing design...
+\t (00:05:19) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:05:19) trapsize 168
+\i (00:05:19) trapsize 172
+\i (00:05:19) trapsize 168
+\t (00:05:19) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\t (00:05:19) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:05:19) trapsize 174
+\d (00:05:19) Design opened: C:/OrCAD_Personal_Library/Footprints/MLF1608E100MTD00.dra
+\i (00:05:19) etchedit 
+\i (00:05:23) shape add rect 
+\i (00:05:23) zoom in 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom in -0.6856 0.4415
+\i (00:05:23) trapsize 87
+\i (00:05:27) show measure 
+\i (00:05:28) setwindow form.find
+\i (00:05:28) FORM find all_off  
+\i (00:05:30) FORM find shapes YES 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) pick grid -0.1096 0.3998
+\t (00:05:32) last pick:  -0.1100 0.4000
+\i (00:05:33) pick grid -0.1044 -0.4007
+\t (00:05:33) last pick:  -0.1000 -0.4000
+\i (00:05:36) setwindow text
+\i (00:05:36) close
+\i (00:05:38) pick grid -0.8056 0.1040
+\t (00:05:38) last pick:  -0.8100 0.1000
+\i (00:05:39) pick grid 0.8022 0.1631
+\t (00:05:39) last pick:  0.8000 0.1600
+\i (00:05:40) setwindow text
+\i (00:05:40) close
+\i (00:05:43) delete 
+\i (00:05:44) pick grid -0.2314 0.3911
+\t (00:05:44) last pick:  -0.2300 0.3900
+\t (00:05:44) Shape "Package Geometry/Assembly_Top"
+\i (00:05:44) pick grid -0.2314 0.3980
+\t (00:05:44) last pick:  -0.2300 0.4000
+\t (00:05:44) Shape "Package Geometry/Silkscreen_Top"
+\i (00:05:45) pick grid -0.2314 0.3980
+\t (00:05:45) last pick:  -0.2300 0.4000
+\i (00:05:46) shape add rect 
+\i (00:05:48) setwindow form.mini
+\i (00:05:48) FORM mini one_click YES 
+\i (00:05:50) FORM mini rec_width 1.6000 
+\i (00:05:52) FORM mini rec_height 0.8000 
+\i (00:05:54) FORM mini dyns_fill_type Unfilled 
+\t (00:05:54) Unfilled shape not allowed on current subclass.
+\i (00:05:57) FORM mini class PACKAGE GEOMETRY 
+\i (00:06:02) FORM mini dyns_fill_type Unfilled 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) pick -0.8 y 0.4 
+\t (00:06:10) last pick:  -0.8000 0.4000
+\i (00:06:13) setwindow form.mini
+\i (00:06:13) FORM mini subclass SILKSCREEN_TOP 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) pick -0.8 y 0.4 
+\t (00:06:16) last pick:  -0.8000 0.4000
+\i (00:06:17) done 
+\i (00:06:18) etchedit 
+\i (00:06:18) save 
+\i (00:06:20) fillin yes 
+\t (00:06:20) Symbol 'mlf1608e100mtd00.psm' created.
+\i (00:06:20) etchedit 
+\i (00:06:55) open 
+\i (00:07:07) fillin "C:/Temp/Motion_Detector/allegro/MOTION_DETECTOR.brd"
+\i (00:07:07) cd "C:/Temp/Motion_Detector/allegro"
+\t (00:07:07) Opening existing design...
+\w (00:07:07) WARNING(SPMHDB-213): DRC set to "out of date". The current product selection supports a different DRC capability than what is saved in the design.
+\i (00:07:08) trapsize 5800
+\i (00:07:08) trapsize 6039
+\i (00:07:08) trapsize 5800
+\t (00:07:08) Grids are drawn 10.2400, 10.2400 apart for enhanced viewing.
+\i (00:07:08) trapsize 5800
+\t (00:07:08)     Journal end - Mon Jan 09 17:44:47 2023

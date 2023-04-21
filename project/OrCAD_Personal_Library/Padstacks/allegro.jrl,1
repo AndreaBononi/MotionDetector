@@ -1,0 +1,106 @@
+\t (00:00:00) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Dec 16 15:50:51 2022
+\t (00:00:00)         Host=DESKTOP-Q01422V User=andre Pid=1208 CPUs=4
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:00) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged BQ27411DRZTG1A_thermalpad_soldermask
+\d (00:00:00) Design opened: C:/OrCAD_Personal_Library/Padstacks/BQ27411DRZTG1A_thermalpad_soldermask.dra
+\t (00:00:01) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:01) trapsize 223
+\i (00:00:01) trapsize 232
+\i (00:00:01) trapsize 242
+\i (00:00:01) trapsize 232
+\i (00:00:01) trapsize 223
+\t (00:00:01) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:01) trapsize 223
+\i (00:00:04) new 
+\i (00:02:36) newdrawfillin "stencil_thermalpad_0d575_0d725.dra" "Flash Symbol"
+\t (00:02:36) Starting new design...
+\i (00:02:36) trapsize 223
+\i (00:02:36) trapsize 223
+\i (00:02:37) QtSignal spbdip_extents_group spbdip_extheight_edit editingFinished 4.0000
+\i (00:02:37) QtSignal SPBDesignInitPrompt spbdip_ok_button clicked
+\i (00:02:41) prmed 
+\i (00:02:45) setwindow form.prmedit
+\i (00:02:45) FORM prmedit design  
+\i (00:02:57) FORM prmedit width 6.0000 
+\i (00:02:59) FORM prmedit height 6.0000 
+\i (00:03:02) FORM prmedit y -3.0000 
+\i (00:03:05) FORM prmedit x -3.0000 
+\i (00:03:05) FORM prmedit apply  
+\i (00:03:05) setwindow pcb
+\i (00:03:05) trapsize 223
+\i (00:03:05) trapsize 229
+\i (00:03:05) trapsize 223
+\i (00:03:06) setwindow form.prmedit
+\i (00:03:06) FORM prmedit display  
+\i (00:03:07) FORM prmedit display_grid YES 
+\i (00:03:08) FORM prmedit view_grids_button  
+\t (00:03:08) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:03:13) setwindow form.grid
+\i (00:03:13) FORM grid non_etch non_etch_x_grids 0.01 
+\i (00:03:14) FORM grid non_etch non_etch_y_grids 0.01 
+\i (00:03:15) FORM grid top subclass_x_grids 0.01 
+\i (00:03:17) FORM grid top subclass_y_grids 0.01 
+\i (00:03:18) FORM grid bottom subclass_x_grids 0.010 
+\i (00:03:19) FORM grid bottom subclass_y_grids 0.01 
+\i (00:03:20) FORM grid done  
+\t (00:03:20) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:03:21) setwindow form.prmedit
+\i (00:03:21) FORM prmedit done  
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom out 1 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom out -0.0981 -0.8437
+\t (00:03:22) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:03:22) trapsize 335
+\i (00:03:22) zoom out 1 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom out 1.4330 -1.3058
+\i (00:03:22) trapsize 335
+\i (00:03:27) shape add rect 
+\i (00:03:30) setwindow form.mini
+\i (00:03:30) FORM mini dyns_fill_type Unfilled 
+\t (00:03:30) Unfilled shape not allowed on current subclass.
+\i (00:03:31) FORM mini one_click YES 
+\i (00:03:52) FORM mini rec_width 0.5750 
+\i (00:04:01) FORM mini rec_height 0.7250 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) pick -0.675 y 0.825 
+\t (00:04:56) last pick:  -0.6750 0.8250
+\i (00:05:00) done 
+\e (00:05:00) ERROR(SPMHGE-162): Unfilled shape is not allowed on the current subclass.
+\i (00:05:02) shape add rect 
+\i (00:05:05) setwindow form.mini
+\i (00:05:05) FORM mini dyns_fill_type Unfilled 
+\t (00:05:05) Unfilled shape not allowed on current subclass.
+\i (00:05:49) setwindow pcb
+\i (00:05:49) pick 0.1 y 0.825 
+\t (00:05:49) last pick:  0.1000 0.8250
+\i (00:05:51) done 
+\e (00:05:51) ERROR(SPMHGE-162): Unfilled shape is not allowed on the current subclass.
+\i (00:05:52) shape add rect 
+\i (00:06:06) pick 0.1 y 0.1 
+\t (00:06:06) last pick:  0.1000 0.1000
+\i (00:06:09) undo 
+\i (00:06:10) trapsize 335
+\i (00:06:11) shape add rect 
+\i (00:06:15) pick 0.1 y -0.1 
+\t (00:06:15) last pick:  0.1000 -0.1000
+\i (00:06:17) done 
+\i (00:06:20) shape add rect 
+\i (00:06:36) pick 0.675 y -0.1 
+\t (00:06:36) last pick:  0.6750 -0.1000
+\i (00:06:39) undo 
+\i (00:06:39) trapsize 335
+\i (00:06:40) shape add rect 
+\i (00:06:45) pick -0.675 y -0.1 
+\t (00:06:45) last pick:  -0.6750 -0.1000
+\i (00:06:47) done 
+\i (00:06:50) save 
+\t (00:06:51) Symbol 'stencil_thermalpad_0d575_0d725.fsm' created.
+\i (00:08:01) new 
+\i (00:08:48) newdrawfillin "MCP73832T2ATIMC.dra" "Package Symbol"
+\t (00:08:48)     Journal end - Fri Dec 16 15:59:38 2022

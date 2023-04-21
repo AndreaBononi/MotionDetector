@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SC32S7PF20PPM.dra                             )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Mon Jan 09 16:55:26 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/OrCAD_Personal_Library/Footprints
+    Name      = sc32s7pf20ppm.psm
+    User      = andre
+    Machine   = DESKTOP-Q01422V
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

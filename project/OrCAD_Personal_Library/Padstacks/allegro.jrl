@@ -1,0 +1,116 @@
+\t (00:02:38) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:02:38)     Journal start - Thu Dec 22 10:57:36 2022
+\t (00:02:38)         Host=DESKTOP-Q01422V User=andre Pid=6228 CPUs=4
+\t (00:02:38) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:02:38) 
+\d (00:02:38) Design opened: C:/OrCAD_Personal_Library/Padstacks/stencil_thermalpad_0d575_0d725.dra
+\i (00:02:39) trapsize 335
+\i (00:02:41) open 
+\i (00:02:43) fillin "stencil_thermalPad_square_1d49.dra"
+\t (00:02:43) Opening existing design...
+\t (00:02:43) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:02:43) trapsize 167
+\i (00:02:43) trapsize 171
+\i (00:02:43) trapsize 167
+\t (00:02:43) Grids are drawn 0.1600, 0.1600 apart for enhanced viewing.
+\t (00:02:43) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:02:43) trapsize 174
+\d (00:02:43) Design opened: C:/OrCAD_Personal_Library/Padstacks/stencil_thermalPad_square_1d49.dra
+\i (00:02:47) zoom out 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom out 0.3619 0.5816
+\t (00:02:47) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:02:47) trapsize 335
+\i (00:02:48) zoom in 1 
+\i (00:02:48) setwindow pcb
+\i (00:02:48) zoom in 0.6763 0.2344
+\t (00:02:48) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:02:48) trapsize 167
+\i (00:03:02) shape add rect 
+\i (00:03:53) setwindow form.mini
+\i (00:03:53) FORM mini one_click YES 
+\i (00:03:55) FORM mini dyns_fill_type Unfilled 
+\t (00:03:55) Unfilled shape not allowed on current subclass.
+\i (00:03:56) FORM mini rec_corner_type_rd YES 
+\i (00:04:00) FORM mini chamfer_size YES 
+\i (00:04:07) FORM mini rec_corner_chamfer 0.0500 
+\i (00:04:17) FORM mini rec_width 1.4900 
+\i (00:04:18) FORM mini rec_height 1.4900 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) pick -1.5 y 1.5 
+\t (00:05:04) last pick:  -1.5000 1.5000
+\i (00:05:11) done 
+\e (00:05:11) ERROR(SPMHGE-162): Unfilled shape is not allowed on the current subclass.
+\i (00:05:12) undo 
+\i (00:05:12) trapsize 167
+\i (00:05:13) zoom in 1 
+\i (00:05:13) setwindow pcb
+\i (00:05:13) zoom in -0.0402 0.7098
+\i (00:05:13) trapsize 84
+\i (00:05:14) zoom in 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom in -0.0402 0.7098
+\i (00:05:14) trapsize 42
+\i (00:05:14) zoom in 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom in -0.0402 0.7099
+\i (00:05:14) trapsize 21
+\i (00:05:18) zoom out 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom out -0.0402 0.7099
+\i (00:05:18) trapsize 42
+\i (00:05:19) zoom out 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom out -0.0469 0.6990
+\i (00:05:19) trapsize 84
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out -0.0436 0.6890
+\i (00:05:20) trapsize 167
+\i (00:05:20) zoom in 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom in -0.0639 0.6823
+\i (00:05:20) trapsize 84
+\i (00:06:38) zoom out 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom out -0.2179 0.8950
+\i (00:06:38) trapsize 167
+\i (00:06:38) zoom out 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom out -0.2916 0.8849
+\t (00:06:38) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:06:38) trapsize 335
+\i (00:06:38) zoom out 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom out 0.2009 1.9821
+\i (00:06:38) trapsize 335
+\i (00:06:38) zoom out 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom out 0.2946 1.9553
+\i (00:06:38) trapsize 335
+\i (00:06:38) zoom out 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom out 0.3080 1.9353
+\i (00:06:38) trapsize 335
+\i (00:06:38) zoom out 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom out 0.3214 1.9152
+\i (00:06:38) trapsize 335
+\i (00:06:38) zoom out 1 
+\i (00:06:38) setwindow pcb
+\i (00:06:38) zoom out 0.1339 2.0223
+\i (00:06:38) trapsize 335
+\i (00:06:39) open 
+\e (00:06:39) Do you want to save the changes you made to stencil_thermalPad_square_1d49.dra?
+\i (00:06:41) fillin no 
+\i (00:06:51) fillin "C:/OrCAD_Personal_Library/Footprints/footprint_CC2640F128RHBR.dra"
+\i (00:06:51) cd "C:/OrCAD_Personal_Library/Footprints"
+\t (00:06:51) Opening existing design...
+\t (00:06:51) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:06:51) trapsize 580
+\i (00:06:51) trapsize 604
+\i (00:06:51) trapsize 580
+\t (00:06:51) Grids are drawn 0.6400, 0.6400 apart for enhanced viewing.
+\t (00:06:51) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:06:51) trapsize 580
+\t (00:06:51)     Journal end - Thu Dec 22 11:01:49 2022

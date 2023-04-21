@@ -1,0 +1,97 @@
+\t (00:00:23) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:23)     Journal start - Tue Jan 10 12:34:46 2023
+\t (00:00:23)         Host=DESKTOP-Q01422V User=andre Pid=12892 CPUs=4
+\t (00:00:23) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:23) 
+\d (00:00:23) Design opened: C:/Users/andre/Documents/Polito/ESE/Andrea_Bononi_287628_PIR_Movement_Detector/project/Motion_Detector/allegro/MOTION_DETECTOR.brd
+\i (00:00:23) etchedit 
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 35.1114 62.8139
+\i (00:00:26) trapsize 5580
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 43.7500 70.2009
+\i (00:00:26) trapsize 5580
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 43.7500 69.0848
+\i (00:00:26) trapsize 5580
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 43.8616 68.9732
+\i (00:00:27) trapsize 2790
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 40.5692 69.1406
+\i (00:00:27) trapsize 1395
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 40.4018 69.3080
+\i (00:00:27) trapsize 2790
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 40.4018 69.0848
+\i (00:00:28) trapsize 5580
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 43.7500 68.3036
+\i (00:00:28) trapsize 5580
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 103.2366 70.6473
+\i (00:00:33) trapsize 5580
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 104.3527 68.8616
+\i (00:00:33) trapsize 5580
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 105.2455 66.2946
+\i (00:00:33) trapsize 5580
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 110.8259 59.9330
+\i (00:00:33) trapsize 5580
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 124.3304 54.7991
+\i (00:00:33) trapsize 2790
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 81.1384 54.9108
+\i (00:00:33) trapsize 1395
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 81.2221 55.0224
+\i (00:00:34) trapsize 698
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 81.1524 55.2317
+\i (00:00:34) trapsize 349
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 81.1035 55.2596
+\i (00:00:34) trapsize 174
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 81.0861 55.1690
+\i (00:00:34) trapsize 349
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 81.0722 55.0643
+\i (00:00:34) trapsize 698
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 81.0444 54.9946
+\i (00:00:35) trapsize 1395
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 80.9885 54.7994
+\i (00:00:35) trapsize 2790
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 79.9664 54.4088
+\i (00:00:35) trapsize 5580
+\i (00:00:37) exit 
+\t (00:00:37)     Journal end - Tue Jan 10 12:35:00 2023

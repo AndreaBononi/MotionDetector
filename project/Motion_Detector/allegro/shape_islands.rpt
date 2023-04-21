@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : MOTION_DETECTOR.brd                           )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Mon Dec 26 15:44:47 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (67.3400 62.8200)  Net: ANTENNA

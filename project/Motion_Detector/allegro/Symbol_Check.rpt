@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : MOTION_DETECTOR.brd                           )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Mon Dec 26 15:44:26 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	C:/Cadence/SPB_17.2/share/local/pcb/symbols
+	C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols
+	C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols
+	C:/OrCAD_Personal_Library/Footprints/
+	C:/OrCAD_Personal_Library/Padstacks/
+
+
+All Symbols Found
+
+Total symbols placed:      64 out of 64
+
+
